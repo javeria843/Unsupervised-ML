@@ -199,6 +199,3 @@ plt.show()
 
 Include your preferred license (e.g., MIT).
 
----
-
-Which one should I produce next?
