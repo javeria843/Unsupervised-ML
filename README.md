@@ -193,9 +193,4 @@ plt.show()
 * Created by: *Javeria Iqbal*
 * Email: (javerialareb249@gmail.com)
 
----
-
-## 📜 License
-
-Include your preferred license (e.g., MIT).
 
