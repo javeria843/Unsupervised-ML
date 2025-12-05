@@ -190,8 +190,8 @@ plt.show()
 
 ## 📞 Contact / Author
 
-* Created by: *Your Name / Your GitHub*
-* Email: [your.email@example.com](mailto:your.email@example.com)
+* Created by: *Javeria Iqbal*
+* Email: (javerialareb249@gmail.com)
 
 ---
 
